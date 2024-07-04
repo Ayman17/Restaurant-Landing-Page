@@ -1,6 +1,6 @@
-#Versions Notes
+# Versions Notes
 
-##Version 0.0 (3/7/2024)
+## Version 0.0 (3/7/2024)
 + Icons using Awesome font (except the nav bar (Need to fix))
 + Use just CSS (not using Bootstrap)
 + Need to complete the website
