@@ -288,6 +288,7 @@ header {
 /* About Us Section */
 .about-us {
     background-color: white;
+    margin-bottom: 30px;
 }
 
 .about-us-content {
